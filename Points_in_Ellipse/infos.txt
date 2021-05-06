@@ -1,0 +1,3 @@
+C:/Users/L.Candido/Documents/Leandro/Pyton/Scripts-Python/dsds/Snoop_skript.py	C:/Users/L.Candido/Documents/Leandro/Pyton/Scripts-Python/dsds	C:/Users/L.Candido/Documents/Leandro/Pyton/Scripts-Python/dsds/IcecubeGrid.txt
+C:/Users/L.Candido/Documents/Leandro/Pyton/Scripts-Python/Barthels Thilo.py	C:/Users/L.Candido/Documents/Leandro/Pyton/Scripts-Python	C:/Users/L.Candido/Documents/Leandro/Pyton/Scripts-Python/HexGridCircle_R1500_X1500_Y1500_D25_random.txt
+C:/Users/L.Candido/Documents/Leandro/Pyton/Scripts-Python/dsds/Snoop_skript.py	C:/Users/L.Candido/Documents/Leandro/Pyton/Scripts-Python/dsds	C:/Users/L.Candido/Documents/Leandro/Pyton/Scripts-Python/dsds/IcecubeGrid.txt

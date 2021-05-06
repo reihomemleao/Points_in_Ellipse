@@ -1,0 +1,40 @@
+// First key is an example
+// type -> STRING, INT, UINT, SHORT, USHORT, DOUBLE, FLOAT, BOOL ("0", or "1") OR ENUM (1:WERT, 2:WERT2, ...) -> ends up in dropdown menu, stored as UINT
+// strings in one line only, may contain \n \t \r
+// min, max and index can be set if you want
+// accesslavel = 0=everyone, 1 = only logged in users, 2 = setup/maintainence, 3 = guru
+
+// [NewValue]
+// type=FLOAT
+// descr=Value
+// unit=String
+// value=1.123
+// visible=false
+// group=First Group
+// toolTip=If you change this value the world will burst in pieces
+// imagePath=newImage.jpg
+// help=this is for a more detailed help text than the tooltip.\nGod knows where to display that
+// defaultVal=1.0
+// displayHint=not needed right now
+// min=-9999999
+// max=99999999
+// index=-1
+// accessLevel=0
+
+[ADSAddr]
+type=FLOAT
+descr=Value
+unit=String
+value=23.123
+visible=false
+group=First Group
+toolTip=If you change this value the world will burst in pieces
+imagePath=newImage.jpg
+help=this is for a more detailed help text than the tooltip.\nGod knows where to display that
+defaultVal=1.0
+displayHint=not needed right now
+min=-9999999
+max=99999999
+index=-1
+accessLevel=0
+
